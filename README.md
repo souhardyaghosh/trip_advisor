@@ -13,13 +13,10 @@ This project is a web application that generates travel itineraries based on use
 
 ## Screenshots
 
-### Home Page
 ![Screenshot 1](https://raw.githubusercontent.com/souhardyaghosh/trip_advisor/main/ss1.png)
 
-### Destination Page
 ![Screenshot 2](https://raw.githubusercontent.com/souhardyaghosh/trip_advisor/main/ss2.png)
 
-### Booking Page
 ![Screenshot 3](https://raw.githubusercontent.com/souhardyaghosh/trip_advisor/main/ss3.png)
 
 
